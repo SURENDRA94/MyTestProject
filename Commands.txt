@@ -1,0 +1,18 @@
+Hi Team, 
+Please find the below source code for the Robot testing as part of the interview for Senior Developer in UK.
+There was a time limit which I put for myself(as specified) which I bound to it. So due to the the time limit and these differenct time zones, I started working on this early in the morning.
+Mostly i acheieved the functionality and desired conditions are met. 
+There are some few changes to the source code (minimal) and logs and also interacting with end user. 
+please do the code review as part of interview assessment.
+
+I can do more on the source code and great interaction with user for this console application. But this time due I couldn't due to the early morning timings.
+
+
+
+
+Commands:
+
+for Placing the robot on board you should enter as : PLACE 1,1,NORTH ( PLACE 1st position, 2nd position, Direction)
+to move it one position give command as : MOVE. It will move the robot by 1 position
+For reporting the Robot Position : Report.
+to turn the direction command is : TURN LEFT/RIGHT ( TURN and then which side)
